@@ -1,3 +1,2 @@
 # Hello Word
- Primeiro repositório para aprendisagem de git e GitHub
- Test
+ **Primeiro** repositório para aprendisagem de git e *GitHub*.
